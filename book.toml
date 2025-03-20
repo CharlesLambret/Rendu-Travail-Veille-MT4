@@ -1,0 +1,7 @@
+[book]
+title = "Rapport de Veille Technologique"
+author = "Charles Lambret"
+language = "fr"
+
+[build]
+build-dir = "book"
