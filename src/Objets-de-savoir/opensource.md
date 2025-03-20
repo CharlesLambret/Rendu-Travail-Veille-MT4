@@ -1,4 +1,5 @@
-# 🗒️ Note
+# L'Open Source
+## 🗒️ Note
 ##### Qu'est-ce?
 
 Partager librement le code source, les algorithmes, et les datasets utilisés au sein d'une communauté, ou chacun peut contribuer à la technologie pour l'améliorer.

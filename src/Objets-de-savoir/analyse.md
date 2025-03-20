@@ -1,5 +1,6 @@
+# Algorithmes de données musicales par IA 
 
-# 🗒️ Note
+## 🗒️ Note
 ##### Qu'est-ce?
 
 Utilisation de l'IA pour analyser et interpréter des ensembles de données musicales, afin de tirer des insights sur des genres, tendances, et comportements d'écoute. La provenance de ces données est également un enjeu car rentrant dans le cadre de  l'[[Éthique et Propriété Intellectuelle dans la Musique Générée par IA]]. 

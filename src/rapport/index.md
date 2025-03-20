@@ -1,4 +1,4 @@
-
+# Rapport de veille - les IA Musicales
 
 ## 1. Introduction - sujets principaux du rapport
 
@@ -69,15 +69,12 @@ De mon point de vue, la génération musicale par IA est une technologie promett
 
 Je vois en cette technologie l'opportunité d'automatiser des bases de samples via un script permettant de me générer une librairie basée sur des mélodies dont je m'inspire. Cela me permettrait de me former à l'utilisation de ce genre de technologies et de me faire gagner du temps sur la création de samples.
 
-## Bibliographie
-### Ressources
-> [!note]-
-Compilation des ressources marquantes qui ont nourri la veille
-https://github.com/openai/jukebox/
-https://github.com/magenta/magenta-js/commits/master/
-https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/models/musicgen.html#audiocraft.models.musicgen.MusicGen
-https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/solvers/musicgen.html#audiocraft.solvers.musicgen.MusicGenSolver
-### Sources (_intéressantes pour le flux)_
-> [!note]-
-Éventuelles sources d’informations particulièrement qualitatives qui ont retenu notre attention, et serait utile à intégrer à notre flux.
+## Ressources
+
+Compilation des ressources marquantes qui ont nourri la veille :  
+- [Jukebox sur GitHub](https://github.com/openai/jukebox/)  
+- [Magenta.js sur GitHub](https://github.com/magenta/magenta-js/commits/master/)  
+- [Documentation MusicGen](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/models/musicgen.html#audiocraft.models.musicgen.MusicGen)  
+- [MusicGenSolver Documentation](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/solvers/musicgen.html#audiocraft.solvers.musicgen.MusicGenSolver)  
+
 

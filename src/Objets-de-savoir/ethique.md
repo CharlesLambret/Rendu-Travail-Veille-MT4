@@ -1,4 +1,5 @@
-# 🗒️ Note
+# Éthique et Propriété Intelectuelle dans la Musique Générée par IA
+## 🗒️ Note
 ##### Qu'est-ce?
 
 Les considérations légales et morales entourant la création et la distribution de musique par IA, une problématique émergente due à des avancées comme celles décrites dans les [[Technologies utilisées pour la génération musicale]].

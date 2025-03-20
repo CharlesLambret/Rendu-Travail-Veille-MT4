@@ -1,4 +1,5 @@
-# 🗒️ Note
+# Personnalsiation de la musique avec l'IA
+## 🗒️ Note
 ##### Qu'est-ce?
 
 L'ajustement de la musique aux préférences et contextes individuels des auditeurs, souvent réalisé grâce à des insights issus des **[[Algorithmes de Recommandation Musicale]]**.

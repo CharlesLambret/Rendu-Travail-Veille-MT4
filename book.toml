@@ -5,3 +5,4 @@ language = "fr"
 
 [build]
 build-dir = "book"
+src = "src"

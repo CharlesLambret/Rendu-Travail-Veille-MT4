@@ -1,12 +1,4 @@
----
-appartient à:
-  - "[[01 Captures d'informations]]"
-date: 2023-12-01
-source: 
-tags:
-  - status/en-cours
----
-# Capture (_pendant le contenu_) ⇒
+# Prise de notes sur l'IA en général
 
 ## ✍️ Points intéressants
 
@@ -25,7 +17,7 @@ tags:
 
 ---
 
-# Synthèse (_après consommation_) ⤵︎
+# Synthèse  ⤵︎
 
 ## ⭐ Concepts et idées essentiels (_futures notes atomiques ⚛︎_)
 
@@ -53,8 +45,8 @@ tags:
 
 # 📚 Bibliographie et Ressources annexes
 
-https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels
-https://www.ipi-ecoles.com/langage-programmation-ia/
-https://sonic-pi.net/ 
-https://librosa.org/
-https://pypi.org/project/essentia/
+- [Réseau de neurones artificiels - Wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
+- [Langages de programmation pour l'IA - IPI Écoles](https://www.ipi-ecoles.com/langage-programmation-ia/)
+- [Sonic Pi - Site officiel](https://sonic-pi.net/)
+- [LibROSA - Documentation officielle](https://librosa.org/)
+- [Essentia - PyPI](https://pypi.org/project/essentia/)

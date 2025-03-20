@@ -1,5 +1,5 @@
-
-# 🗒️ Note
+# Algorithmes de recommandation musicale
+## 🗒️ Note
 ##### Qu'est-ce?
 
 Des algorithmes qui utilisent l'IA pour suggérer de la musique aux utilisateurs basée sur leurs préférences, en s'appuyant sur ce qui est tiré des [[Analyse de Données Musicales avec l'IA]]

@@ -1,5 +1,6 @@
 
-# 🗒️ Note
+# Algorithmes de génération musicale
+## 🗒️ Note
 ##### Qu'est-ce?
 
 Ces algorithmes se basent sur [[Analyse de Données Musicales avec l'IA]]  pour apprendre les structures, les styles et les motifs musicaux, puis génèrent de nouvelles compositions musicales en s'inspirant de ces apprentissages.

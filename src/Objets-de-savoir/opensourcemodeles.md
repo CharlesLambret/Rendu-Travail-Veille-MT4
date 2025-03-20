@@ -1,4 +1,5 @@
-# 🗒️ Note
+# Open Source de Modèles de Génération Musicale par IA
+## 🗒️ Note
 ##### Qu'est-ce?
 
 L'approche par [[L'Open Source]] de la génération musicale par IA. 
