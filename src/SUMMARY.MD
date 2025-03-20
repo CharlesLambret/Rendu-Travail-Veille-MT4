@@ -2,7 +2,7 @@
 
 - [Rapport](./rapport/index.md)
 - [Captures d'Informations](./Captures-infos/index.md)
-  - [Conversations avec ChatGPT](./Captures-infos/ChatGPT/divers.md)
+  - [Conversations avec ChatGPT sur divers themes](./Captures-infos/ChatGPT/divers.md)
   - [Technologies utilisées pour la génération musicale](./Captures-infos/ChatGPT/Technologies.md)
   - [Prise de note - Génération Musicale par IA](./Captures-infos/Explorations/Generation.md)
   - [Échecs et Abandons](./Captures-infos/Notes/Echecs-et-abandons.md)
